@@ -1,5 +1,7 @@
 # Java-App-For-Database-Collection
- Java client-server application for managing a collection of elements which is stored in PostgreSQL database 
+ Java client-server application for managing a collection of elements which is stored in PostgreSQL database.
+
+Клиент-серверное приложение позволяет авторизованным пользователям работать с коллекцией элементов типа HumanBeing с помощью ввода команд с последующим хранением коллекции в базе данных.
 
 Выполнены следующие требования:
 1.	Организовать хранение коллекции в реляционной СУБД (PostgresQL). Убрать хранение коллекции в файле.
